@@ -2,6 +2,8 @@ This is my Ruby solution to the [Reddit Daily Programmer Challenge #321](https:/
 
 To run the script, just call `ruby talking_clock.rb` in the Terminal from the directory where this file lives.
 
+It assumes the input is a string.
+
 TODO: add chinese
 TODO: don't assume input is string
 TODO: add edge cases (midnight, noon, half past, etc)
